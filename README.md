@@ -1,1 +1,3 @@
 # Email_Spam_Classifier
+
+This project presents an email classifier system designed to categorize incoming emails into predefined categories. Through extensive experimentation with various machine learning models, including decision trees, support vector machines, and neural networks, we have determined that Multinomial Naive Bayes offers the most effective performance for this task. Additionally, we have deployed this model using Streamlit, providing an interactive web application for users to classify their emails seamlessly. This repository contains the code and documentation for our email classifier implementation, showcasing the effectiveness of Naive Bayes and the user-friendly deployment through Streamlit.
